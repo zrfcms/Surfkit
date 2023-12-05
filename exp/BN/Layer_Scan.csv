@@ -1,0 +1,11 @@
+Layer_Type,Height,Contains,Integration
+Atomic_Layer,4.064546,N4,B20N20
+Atomic_Layer,3.556478,B4,B20N16
+Atomic_Layer,2.032273,N4,B16N16
+Atomic_Layer,1.524205,B4,B16N12
+Atomic_Layer,0.000000,N4,B12N12
+Atomic_Layer,-0.508068,B4,B12N8
+Atomic_Layer,-2.032273,N4,B8N8
+Atomic_Layer,-2.540341,B4,B8N4
+Atomic_Layer,-4.064546,N4,B4N4
+Atomic_Layer,-4.572614,B4,B4
